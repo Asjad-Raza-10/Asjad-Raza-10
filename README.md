@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asjad-Raza-10
 - 👀 I’m interested in: Computer Science
-- 🌱 I’m currently learning: Object Oriented Programming
+- 🌱 I’m currently learning: DSA
 - 💞️ I’m looking to collaborate on: coding projects, competitions
 - 📫 How to reach me: +92 336 9900430, syedasjadrazashirazi@gmail.com
 - 😄 Pronouns: he/him
