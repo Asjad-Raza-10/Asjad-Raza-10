@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Cloud/Venom Header - dark theme, white text -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Syed%20Asjad%20Raza&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20%40%20FAST%20NUCES%20Lahore&descAlignY=60&descColor=8b949e" />
+<!-- Animated Waving Header - dark theme, white text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Syed%20Asjad%20Raza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20%40%20FAST%20NUCES%20Lahore&descAlignY=60&descColor=8b949e" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -81,16 +81,6 @@ BSCS @ FAST | AI & Database Projects | Tech Enthusiast | Gamer | Car Lover 🎮�
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asjad-Raza-10&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -101,18 +91,8 @@ BSCS @ FAST | AI & Database Projects | Tech Enthusiast | Gamer | Car Lover 🎮�
 
 ---
 
-## 🔝 Top Contributed Repos
-
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Asjad-Raza-10&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" />
 
 </div>
