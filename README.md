@@ -1,35 +1,118 @@
 <div align="center">
 
-<!-- Animated Waving Header - dark theme, white text -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Syed%20Asjad%20Raza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSCS%20%40%20FAST%20NUCES%20Lahore&descAlignY=60&descColor=8b949e" />
+<!-- ================= ANIMATED HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Syed%20Asjad%20Raza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BSCS%20%40%20FAST%20NUCES%20Lahore%20%C2%B7%20Silver%20Medalist%20%C2%B7%20I%20automate%20the%20boring%20parts&descAlignY=58&descColor=8b949e" />
 
-<!-- Typing SVG -->
+<!-- ================= TYPING SVG ================= -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=c9d1d9&center=true&vCenter=true&width=600&lines=C%2B%2B+%26+Assembly+Developer;AI+%26+Database+Enthusiast;FAST+NUCES+CS+Student;Gamer+%7C+Car+Lover+%F0%9F%8E%AE%F0%9F%9A%97" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=%24+whoami;I+build+AI+tools+that+kill+boring+work;C%2B%2B+%26+Assembly+%7C+Chrome+Extensions+%7C+Full+Stack;A+digital+marketer+who+reverse+engineers+his+own+job;30+minutes+per+task+-%3E+5.+Every+time.;Gamer+%7C+Car+Lover+%F0%9F%8E%AE%F0%9F%9A%97" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- ================= LIVE BADGES ================= -->
+<img src="https://komarev.com/ghpvc/?username=Asjad-Raza-10&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Asjad-Raza-10?label=FOLLOWERS&style=for-the-badge&color=0d1117&labelColor=161b22&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/Asjad-Raza-10?label=TOTAL%20STARS&style=for-the-badge&color=0d1117&labelColor=161b22&logo=github" alt="stars" />
+
+<!-- ================= ANIMATED DIVIDER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:58a6ff,50:8b949e,75:58a6ff,100:0d1117&height=3&section=header" />
 
 </div>
 
----
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=200&height=30&lines=%F0%9F%92%AB+About+Me" alt="About Me" />
 
-## 💫 About Me
+```cpp
+#include <automation>
+#include <reverse_engineering>
+#include <caffeine>
 
-BSCS @ FAST | AI & Database Projects | Tech Enthusiast | Gamer | Car Lover 🎮🚗
+namespace fast_nuces::lahore {
 
----
+class SyedAsjadRaza final : public Engineer, public Marketer, public Translator {
+public:
+    static constexpr float cgpa           = 3.92f;  // silver medalist
+    static constexpr int   semesters_done = 4;      // BSCS, FAST NUCES Lahore
 
-## 🌐 Socials
+    // Already compiled and linked. Not "currently learning" any of it.
+    const Set<Skill> linked {
+        "DSA", "Machine Learning", "Computer Vision", "Databases",
+        "C++", "Assembly", "Full Stack Web", "Chrome Extensions",
+        "SEO & Meta Ads", "Video Editing", "Urdu <> English Translation"
+    };
+
+    // The only function I really keep calling.
+    template <class BoringRepetitiveTask>
+    [[nodiscard]] Tool kill(BoringRepetitiveTask&& task) {
+        auto internals = reverse_engineer(task);   // the DOM always talks
+        auto tool      = build(internals, ai_only_where_it_earns_its_keep);
+
+        assert(reviewed_by_me(tool.output));       // this line never gets automated
+        return ship(tool);
+    }
+
+    // Receipts, not resolutions.
+    const Log shipped {
+        { "Subtitle Translator",  "30 min/task -> 5 min",     "beat a virtualized DOM + copy block, Gemini free tier" },
+        { "Meta Ads Scraper",     "30 min/day  -> 1 click",   "Ads Manager daemon piped into Sheets via OAuth"        },
+        { "Context Handoff",      "retyping context -> 0",    "100% local, zero API calls, open source"              },
+        { "FAST NUCES film",      "scripted -> shot -> cut",  "posted on the official university page"                },
+    };
+
+private:
+    Thread spare { gaming, cars };   // runs whenever the main thread blocks
+};
+
+}  // namespace fast_nuces::lahore
+```
+
+<div align="center">
+
+| What I build | Why it exists |
+| :--- | :--- |
+| **AI tools & automations** | Because "long term project" is a problem statement, not a job |
+| **Websites & full stack apps** | React, Node, and whatever the client actually needs |
+| **Chrome extensions** | UI restrictions are a wall for a mouse, not for the DOM |
+| **Ads, SEO & video** | I run the campaigns *and* write the tooling that tracks them |
+
+</div>
+
+<div align="center">
+
+> *"Talk is cheap. Show me the code."* &nbsp;&mdash;&nbsp; Linus Torvalds
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true" alt="Random Dev Quote" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:58a6ff,50:8b949e,75:58a6ff,100:0d1117&height=3&section=header" />
+
+</div>
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=180&height=30&lines=%F0%9F%8C%90+Socials" alt="Socials" />
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/syed-asjad-raza-0236ba1a7/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:syedasjadrazashirazi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Asjad-Raza-10)
 
 </div>
 
----
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:58a6ff,50:8b949e,75:58a6ff,100:0d1117&height=3&section=header" />
+</div>
 
-## 💻 Tech Stack
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=220&height=30&lines=%F0%9F%92%BB+Tech+Stack" alt="Tech Stack" />
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,py,cmake,tensorflow,opencv,mysql,nodejs,react,firebase,docker,git,github,figma,vscode,linux&theme=dark&perline=8" />
+
+</div>
+
+<details>
+<summary><b>🔎 Expand for the full arsenal</b></summary>
+
+<br/>
 
 <div align="center">
 
@@ -55,7 +138,7 @@ BSCS @ FAST | AI & Database Projects | Tech Enthusiast | Gamer | Car Lover 🎮�
 
 **Design & Creative**
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 **Gaming**
 
@@ -63,36 +146,105 @@ BSCS @ FAST | AI & Database Projects | Tech Enthusiast | Gamer | Car Lover 🎮�
 
 </div>
 
----
+</details>
 
-## 📊 GitHub Stats
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:58a6ff,50:8b949e,75:58a6ff,100:0d1117&height=3&section=header" />
+</div>
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=260&height=30&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats" />
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Asjad-Raza-10&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Asjad-Raza-10&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Asjad-Raza-10&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Asjad-Raza-10&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+
+<br/><br/>
+
+<!-- ================= TROPHY CASE ================= -->
+<img src="https://github-profile-trophy.vercel.app/?username=Asjad-Raza-10&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Asjad-Raza-10&theme=github-dark&hide_border=true" height="180"/>
+<!-- ================= SUMMARY CARDS ================= -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asjad-Raza-10&theme=github_dark" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asjad-Raza-10&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asjad-Raza-10&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asjad-Raza-10&theme=github_dark&utcOffset=5" height="170" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:58a6ff,50:8b949e,75:58a6ff,100:0d1117&height=3&section=header" />
 
 </div>
 
----
-
-## 📈 Contribution Graph
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=340&height=30&lines=%F0%9F%90%8D+Contribution+Snake" alt="Snake" />
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asjad-Raza-10&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<!-- Auto generated by the snake workflow. Eats your contribution squares every 12 hours. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asjad-Raza-10/Asjad-Raza-10/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asjad-Raza-10/Asjad-Raza-10/output/snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Asjad-Raza-10/Asjad-Raza-10/output/snake.svg" width="100%" />
+</picture>
 
 </div>
 
----
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=340&height=30&lines=%F0%9F%8E%A2+3D+Contribution+City" alt="3D Contributions" />
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" />
+<!-- Auto generated by the profile-3d-contrib workflow -->
+<img src="https://raw.githubusercontent.com/Asjad-Raza-10/Asjad-Raza-10/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
+
+</div>
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=320&height=30&lines=%F0%9F%93%88+Activity+Graph" alt="Activity Graph" />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asjad-Raza-10&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Commit%20Heartbeat" width="100%" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:58a6ff,50:8b949e,75:58a6ff,100:0d1117&height=3&section=header" />
+
+</div>
+
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1&pause=99999&color=C9D1D9&vCenter=true&width=280&height=30&lines=%F0%9F%A7%A0+Terminal" alt="Terminal" />
+
+<div align="center">
+
+```console
+asjad@fast-nuces:~$ neofetch
+                                    ┌──────────────────────────────────────────┐
+        .--.                        │  OS ........ Arch of Reality             │
+       |o_o |                       │  Host ...... FAST NUCES, Lahore          │
+       |:_/ |                       │  Kernel .... C++ 23.0.0-lowlevel         │
+      //   \ \                      │  Uptime .... 4 semesters, 0 regrets      │
+     (|     | )                     │  Shell ..... /bin/curiosity              │
+    /'\_   _/`\                     │  CPU ....... Caffeine @ 4.20 GHz         │
+    \___)=(___/                     │  Memory .... 3.92 / 4.00 GB  🥈          │
+                                    │  Installed . dsa, ml, cv, seo, premiere  │
+                                    │  Daemons ... 3 extensions, 0 paid APIs   │
+                                    └──────────────────────────────────────────┘
+asjad@fast-nuces:~$ ./automate --task "the boring part"
+[100%] 30 min  ->  5 min ✓
+asjad@fast-nuces:~$ █
+```
+
+<img src="https://readme-jokes.vercel.app/api?theme=github_dark&hideBorder=false" alt="Jokes Card" />
+
+</div>
+
+<div align="center">
+
+<!-- ================= FOOTER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer&text=Thanks%20for%20scrolling%20this%20far&fontSize=20&fontColor=8b949e&animation=twinkling&fontAlignY=72" />
+
+<b>⭐ If any of my repos helped you, a star costs nothing and means everything.</b>
 
 </div>
